@@ -1,3 +1,3 @@
 # URBANPLANNER
 
-Project for java exam.
+Project for object oriented programmation exam.
